@@ -1,3 +1,8 @@
+@media screen {
+  max-width: 500px;
+  min-width: 50px;
+}
+
 img{
     display:block;
     width:350px;
@@ -9,8 +14,10 @@ img{
   h1{
     padding:30px 0 0 0;
     border:0;
-    color:red;  background-color:#ffffff
-  }
+    color:skyblue;  background-color: #ddf3f1;
+    display: flex;
+    justify-content: center;
+    }
   h4{
     margin:2em auto;
     color:#555ffd;
