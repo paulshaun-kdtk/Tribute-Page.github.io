@@ -1,0 +1,17 @@
+img{
+    display:block;
+    width:350px;
+    max-width:100%
+  }
+  body{
+    background-color: #ddf3f4;
+  }
+  h1{
+    padding:30px 0 0 0;
+    border:0;
+    color:red;  background-color:#ffffff
+  }
+  h4{
+    margin:2em auto;
+    color:#555ffd;
+  }
